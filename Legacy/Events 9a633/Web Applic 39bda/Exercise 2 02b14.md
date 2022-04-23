@@ -1,0 +1,52 @@
+# Exercise 2
+
+Play with wk1exercise2.html with erroneous inputs.
+
+Consider this question: what if you have more specific requirements on the inputs.
+
+## wk1exercise2.html
+
+```html
+<!doctype html>
+<html>
+    <head>
+        <title>HTML Tags</title>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <style>
+            .fav {
+                color: red;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <!--
+            ToDo: Try input exotic things to the following form and observe the outcome.
+        -->
+
+        <div id="div3">
+            <form>
+                Color input: <input type="color" value="green" min="#090909"><br>
+                Date input: <input type="date" min="1998-02-26"><br>
+                Email input: <input type="email"><br>
+                File input: <input type="file" max="20000"><br>
+                Number input: <input type="number" min="10" max="30" value="20" ><br>
+                Range Input: <input type="range" min="10" max="50" value="10" ><br>
+                Search input: <input type="search"><br>
+                Tel input: <input type="tel"><br>
+                Time input: <input type="time"><br>
+                Url input: <input type="url"><br>
+                <input type="submit">
+            </form>
+        </div>
+       
+    </body>
+    
+</html>
+```

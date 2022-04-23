@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "9188342b1cca9be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2626a1c8088def3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Po/Enterprise Solution Management.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0592643b0c424124",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8b93485f30f726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "428a1bd38ecb74a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bd51fbda0a79014",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f82e463bb75a9e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d1e108651b200e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59c8a83311eb6e52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Po/Enterprise Solution Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d73805a448c621ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Po/Enterprise Solution Management.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b38c08a9b6507e12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b034c4cbeeae9307",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b1e486975238939",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5,
+    "collapsed": true
+  },
+  "active": "e2626a1c8088def3",
+  "lastOpenFiles": [
+    "Po/Enterprise Solution Management.md",
+    "Po/Readiness for change.md",
+    "Po/Business Change.md",
+    "Po/IT Support Role.md",
+    "Po/ESM Quality and Monitoring.md",
+    "Po/Monitoring with ITIL v 4.0 — 5.2.7.md",
+    "Po/Report (ITIL monitoring).md",
+    "Po/Analyse (ITIL monitoring).md",
+    "Po/Visualise (ITIL monitoring).md",
+    "Po/Measure (ITIL monitoring).md"
+  ]
+}

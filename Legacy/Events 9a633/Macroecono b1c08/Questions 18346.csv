@@ -1,0 +1,47 @@
+﻿Name,Answer,Week code
+What are the two focuses of Macroecons?,"Long run growth and business cucles. 
+
+Long-run growth refers to the increase in a nation’s productive capacity and average standard of living that occurs over a long period of time, whereas business cycles are the short-run ups and downs, or booms and recessions, in aggregate eco- nomic activity.",ECON112-1
+What is the Fisher Effect?,a positive correlation between nominal interest rates and the inflation rate.,ECON112-1
+What is Current Account? Why is a current account deficit not necessarily harmful?,"net exports of goods and services (exports minus imports) plus net factor payments (net income from abroad)
+
+May be beneficial for a country to borrow in the short run by running a current account deficit so as to smooth aggregate consumption over time. 
+
+persistent current account deficits may make sense if the associated foreign borrowing is used to finance additions to the nation’s productive capacity that will allow for higher future living standards.",ECON112-1
+Prove mathematically that the growth rate is estimated by the gradient of the natural-logarithm graph of real GDP per capita,refer to w1 notes,ECON112-1
+"Explain Keynesian, Real Business Cycle, Coordination Failure model and New Keynesian model","Old Keynesian Model: based on the notion that wages and prices are sticky in the short run, and do not change sufficiently quickly to yield efficient outcomes. government intervention through monetary and fiscal policy can correct the inefficiencies in private markets. 
+
+Real Business Cycle (Non-K): government policy aimed at smoothing business cycles is at best ineffective and at worst detrimental to the economy’s performance.
+
+Coordination failure: economy can be stuck in a bad equilibrium, not because of sticky wages and prices, but because economic agents are self-fulfillingly pessimistic. 
+
+New-Keynesian: sticky wages and prices, use the microeconomic tools that all modern macroeconomists use.",ECON112-1
+"In the long run, inflation is caused by...","Growth in money supply
+Inflation, the rate of growth in the average level of prices, can vary over the short run for many reasons. 
+Over the long run, however, the rate at which the central bank (the Federal Reserve System in the United States) causes the stock of money to grow determines what the inflation rate is. ",ECON112-1
+"""A tax cut is not a free lunch""– why is this true of the government's budget?","When the government reduces taxes, this increases current incomes in the private sector, and it may seem that this implies that people are wealthier and may want to spend more. However, if the government reduces taxes and holds its spending constant, it must borrow more, and the government will have to increase taxes in the future to pay off this higher debt. Thus, future incomes in the private sector must fall. ",ECON112-1
+Are there long term effects of a one-off increase in money supply?,"No. One-time increase in the money supply, brought about by the central bank, has no long-run effect on any real economic magnitudes in the economy; it only increases all prices in the same proportion.",ECON112-1
+What are the factors affecting short-term unemployment rates," productivity, generosity of government-provided unemployment insurance, matching efficiency",ECON112-1
+How does Government spending affect the private sector?,"Crowding out effect: That is, the government competes for resources with the rest of the economy. If the size of the government increases, then through several economic mechanisms there is a reduction in the quantity of spending by private firms on new plant and equipment, and there is a reduction in private consumption expenditures.",ECON112-1
+How is government debt different from individual debt?,"Principal difference between an individual and the government: when the government accumulates debt by borrowing from its citizens, then this is debt that we as a nation owe to ourselves. ",ECON112-1
+Explain what the Ricardian Equivalence Theorem is,"the effects of a government deficit depend on what the source of the deficit is, and can be zero: If the deficit is the result of a decrease in taxes, then the government debt that is issued to finance the deficit will have to be paid off ultimately by higher future taxes. Running a deficit in this case implies that there is a redistribution of the tax burden from one group to another; one group has its current taxes reduced while another has its future taxes increased. Under some circumstances, these two groups might essentially be the same, in which case there would be no consequences of having the government run a deficit. ",ECON112-1
+Why does nominal interest rate tend to rise/fall with inflatio rate?,"The real interest rate, roughly speaking, is the nominal interest rate minus the expected rate of inflation. i.e. real int rate + inf rate = nom int rate. This implies a positive correlation. (Real interest rate is determined by market forces)",ECON112-1
+What are the five steps of the design thinking process?,"Empathy, define, ideate, prototype, test",IS211-1
+What are lead users?,advanced users or users who deal with a problem very intensively even in a certain area.,IS211-1
+What are the 4 phases of the Business Process Management model?,"Business Strategies, Business Goals, Organisation set up, implementation phases",IS210-1
+What is the Business Process Management model meant to do?,"BPM aimed to help organizations fundamentally rethink how they do their work in order to dramatically improve customer service, cut operational costs, and become world-class competitors",IS210-1
+What is IT-business alignment?,IT business alignment is the organizational capacity to leverage the former for the success of the latter. Also defined as the organizational imperative to actualize a positive relationship between the use of information technologies and stated and accepted measures of financial and business performance.,IS210-1
+What are the 6 types of business process modelling,"Organisation, location, resource, collaboration, process work flow, business rules",IS210-1
+What are the three layers in organisation modeling,"Organisation, department, role",IS210-1
+How does the course define business process?,“Repeatable series of activities performed to deliver a service or a product to a stakeholder”,IS210-1
+What is a sub-process,"process = subprocess + activity. As long as there is an activity and subprocess nested within it, and it is not the overarching process, it is a subprocess",IS210-1
+"not true about process oriented org: a)cross dept b) end to end c) ",a,IS210-1
+Location model is about,Capturing geographic locations of the business and provides deployment view of the solution,IS210-1
+Organisational model is about,Capturing roles and reporting structures,IS210-1
+Process workflow model is about,Capturing sequence of activities and provides the process flow view,IS210-1
+Does collaboration model have activity?,"No, it only shows information flows between entities",IS210-2
+"Why does Plato believe dictatorship to be the consequence of democracy, like democracy is to oligarchy?","He believes they both tend to the unrestraint faculties of desires and appetite, in particular, being drunk on freedom and wealth. This tends people to have a disregard for rules (teachers acting like students; children acting like parents, v.v.) and an affinity to choose the most charismatic of people, typically young people who make good performances in public, like the sophists.",POSC119-2
+Add this week's question to the question bank,,
+Explain why the modern-premodern separation trumps that of the East-West divide of political theory,"East-West unfairly treats eastern studies as a series of anthropological endeaver demanding some sort of cultural immersion. Modern eastern culture may not be as affected by their ancient cultures as one expects, much like a current western polity may not be affected by the Greeks, for example. Instead, most if not all states share the common goal of modernity, with the common ills and struggles in a modern world. This goal oriented rather than context oriented approach helps to unite both studies",POSC119-1
+Why does Plato believe Philosophers should be kings?,"Tripartite of the soul: reason trumps desires and appetites because it is not expansive but has the capacity to be moderate. Allegory of the ship: those most capable should lead. Transposing the tripartite to the society, those most able to lead should be made kings, philosophers being lovers of wisdom and reasons. ",POSC119-2
+What is the myth of the metals and what problem does it solve?,"Those who don't want to lead are the best leaders, those who should not rule often want to rule. The myth of the metal appeals to ""justice"" in the ""knowing your place"" sense, and gives those who ought to rule a noble reason, based on the Platonic notion of justice as harmony, to do what they are innately made to do. Likewise the myth also makes those who ought not rule accept that they ought not rule",POSC119-2

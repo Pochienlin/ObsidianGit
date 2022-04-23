@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5ef417314fc1ad89",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe258610ea4f1b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Enterprise 78767.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a98cc1382ccb2ec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0270938e1424311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "517de0453382d44a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3f16b18eb0a9617",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a484bc18814e7c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfb07cde30ccde9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d9d58b7a908e8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Enterprise 78767.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ffe258610ea4f1b4",
+  "lastOpenFiles": [
+    "Enterprise 78767.md",
+    "Enterprise 5bd06.md",
+    "Enterprise aa003.md",
+    "Enterprise 41448.md",
+    "(EXAM) Web 73c95.md",
+    "Enterprise 9701c.md",
+    "Sprdsheet  0a375.md",
+    "Strategic  38879.md",
+    "Strategic  7f865.md",
+    "Political  cfca7.md"
+  ]
+}
