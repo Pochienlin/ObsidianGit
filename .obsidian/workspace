@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Po/Enterprise Solution Management.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f82e463bb75a9e08",
@@ -129,14 +130,14 @@
   "active": "e2626a1c8088def3",
   "lastOpenFiles": [
     "Po/Enterprise Solution Management.md",
+    "Po/ESM What is Support.md",
+    "README.md.md",
+    "Po/Enterprise Solution Development.md",
+    "unproductives.com.md",
     "Po/Readiness for change.md",
     "Po/Business Change.md",
     "Po/IT Support Role.md",
     "Po/ESM Quality and Monitoring.md",
-    "Po/Monitoring with ITIL v 4.0 — 5.2.7.md",
-    "Po/Report (ITIL monitoring).md",
-    "Po/Analyse (ITIL monitoring).md",
-    "Po/Visualise (ITIL monitoring).md",
-    "Po/Measure (ITIL monitoring).md"
+    "Po/Monitoring with ITIL v 4.0 — 5.2.7.md"
   ]
 }
