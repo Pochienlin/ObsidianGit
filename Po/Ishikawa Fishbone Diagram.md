@@ -22,7 +22,7 @@ The basic concept was first used in the 1920s, and is considered one of the [sev
 
 ### Disadvantages
 -   Complex defects might yield a lot of causes which might become visually cluttering
--   Interrelationships between causes are not easily identifiable[[6]](https://en.wikipedia.org/wiki/Ishikawa_diagram#cite_note-6)
+-   Interrelationships between causes are not easily identifiable
 
 ### Common uses
 Common uses of the Ishikawa diagram are [product design](https://en.wikipedia.org/wiki/Product_design "Product design") and quality defect prevention to identify potential factors causing an overall effect. Each cause or reason for imperfection is a source of variation. Causes are usually grouped into major categories to identify and classify these sources of variation.

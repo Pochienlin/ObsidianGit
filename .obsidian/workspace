@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Po/Enterprise Solution Management.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 366.5,
     "collapsed": true
   },
   "right": {
@@ -130,14 +130,14 @@
   "active": "e2626a1c8088def3",
   "lastOpenFiles": [
     "Po/Enterprise Solution Management.md",
-    "Po/ESM What is Support.md",
-    "README.md.md",
-    "Po/Enterprise Solution Development.md",
-    "unproductives.com.md",
-    "Po/Readiness for change.md",
-    "Po/Business Change.md",
-    "Po/IT Support Role.md",
+    "Po/Strategic Thinking.md",
+    "6.md",
+    "Po/Ishikawa Fishbone Diagram.md",
+    "Po/DMADV.md",
+    "Po/202204232143.md",
     "Po/ESM Quality and Monitoring.md",
-    "Po/Monitoring with ITIL v 4.0 — 5.2.7.md"
+    "Po/ESM Operation use case.md",
+    "Po/ESM What is Support.md",
+    "README.md.md"
   ]
 }

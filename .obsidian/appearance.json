@@ -1,6 +1,8 @@
 {
   "baseFontSize": 16,
-  "translucency": true,
-  "cssTheme": "Everforest",
-  "theme": "obsidian"
+  "translucency": false,
+  "cssTheme": "Willemstad",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Avenir"
 }

@@ -1,31 +1,18 @@
 # Enterprise Solution Management| Operation use case
-
-Archive?: No
-End: February 2, 2022 3:15 PM
-Start: February 2, 2022 12:00 PM
-
-# Overview
-
-## Main Concepts
-
-1. 
+UID: 202204232137
+Tags: #🌱 
+Links: [[Enterprise Solution Management]]
 
 [Use case 1](Enterprise%20156fa/Use%20case%201%20eeca5.md)
 
 # Scenario
 
 IT Support has been a big problem for the ESMOS company for some years. The previous CTO was fired, and the new CTO is promoting JIRA as our new IT Service Management product for tracking all support activities of our Business-Critical eCommerce platform opencart.
-
-| Issue | Root
-  Cause | Metric |
+| Issue | Root  Cause | Metric |
 | --- | --- | --- |
-| Customer/Employee complains regarding capability | IT
-  is unable to solve the problem | Tickets closed not solved |
-| Customer/Employee complains regarding time to solve the issue | IT
-  takes a long time to close the ticket | Time to close,
-# of interactions |
-| Too many tickets | IT
-  is unable to detect issues proactively | # of tickets per type per period |
+| Customer/Employee complains regarding capability | IT is unable to solve the problem | Tickets closed not solved |
+| Customer/Employee complains regarding time to solve the issue | IT takes a long time to close the ticket | Time to close, # of interactions |
+| Too many tickets | IT is unable to detect issues proactively | # of tickets per type per period |
 
 ![Untitled](Enterprise%20156fa/Untitled.png)
 
@@ -42,13 +29,6 @@ IT Support has been a big problem for the ESMOS company for some years. The prev
 Ms. Learner [SR1]
 
 Mr. Forgetful [SR2]
-
-- Question
-
-<aside>
-💡 Main point summary
-
-</aside>
 
 # OpenCart SLA
 

@@ -1,8 +1,7 @@
 # Enterprise Solution Management
 UID: 202203091407
 Tags: #🔥 #🌱 
-Links:
-
+Links: [[Information Systems]]
 ### Frameworks
 [[Six Sigma]]
 [[ITIL]]
@@ -37,11 +36,9 @@ Links:
 # What is Enterprise Solution Management?
 
 ## Enterprise
-
 - a unit of economic organization or activity, especially a business venture or organization e.g. a large company
 
 ## Solution (IT)
-
 - one or more systems used for a business process
 
 ## Enterprise Solution
