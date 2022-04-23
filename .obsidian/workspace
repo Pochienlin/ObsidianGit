@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Po/Enterprise Solution Management.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -124,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "active": "e2626a1c8088def3",
   "lastOpenFiles": [
     "Po/Enterprise Solution Management.md",
-    "Po/Strategic Thinking.md",
-    "6.md",
-    "Po/Ishikawa Fishbone Diagram.md",
-    "Po/DMADV.md",
-    "Po/202204232143.md",
-    "Po/ESM Quality and Monitoring.md",
-    "Po/ESM Operation use case.md",
-    "Po/ESM What is Support.md",
-    "README.md.md"
+    "Po/Implementation – Change process.md",
+    "Po/Business Change.md",
+    "Po/Readiness for change.md",
+    "Po/Problem Management.md",
+    "Po/ITIL Problem Management.md",
+    "Po/Risk management.md",
+    "Po/Disaster recovery.md",
+    "Po/ITIL.md",
+    "Po/Impact and Recovery Times.md"
   ]
 }

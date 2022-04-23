@@ -1,23 +1,20 @@
 # **Problem Management**
-
-> Problem: A cause, or potential cause, of one or more incidents.
-> - ITIL
-> 
-
+ ```ad-quote
+title: defining problems in ITIL
+Problem: A cause, or potential cause, of one or more incidents.
+```
 ---
 
 In ITIL 4, Service Management Practices ensure that services deliver agreed levels of availability to meet the needs of customers and users.
-
 - *Event*  any change of state that has significance for the management of a service. Typically they are notifications from monitoring tools.
 - *Incident* an unplanned interruption to a service or reduction in the quality of a service.
 - *Problem* a cause, or potential cause, of one or more incidents
-
-<aside>
+```ad-tip
 💡 Week 5 focuses on **incidents**
 
 - **Problems** will be covered this week
 - For **events**, recall week 4 monitoring
-</aside>
+```
 
 ![Untitled](Enterprise%205bd06/Untitled%204.png)
 
@@ -30,15 +27,13 @@ In ITIL 4, Service Management Practices ensure that services deliver agreed leve
 - **PM processes are both reactive and proactive:**
     - **Reactive** in solving problems in response to incidents,
     - **Proactive** in identifying and solving potential incidents before they occur.
-
-<aside>
+```ad-note
 💡 **Often seen as:**
 
 - The **same incident** occurring many times
 - An incident that **affects many users**
 - Systems are **not operating** in the expected way
-</aside>
-
+```
 ---
 ## Problem management phases
 - Every service has errors, flaws or vulnerabilities that may cause incidents.
@@ -74,11 +69,8 @@ In ITIL 4, Service Management Practices ensure that services deliver agreed leve
 
 ![Untitled](Enterprise%205bd06/Untitled%209.png)
 
-## [[Timeline analysis]]
-
----
-
-## RCA - [[Ishikawa Fishbone Diagram]]
+#### 1. [[Timeline analysis]]
+#### 2.  RCA - [[Ishikawa Fishbone Diagram]]
 
 # Problem Response
 ---
