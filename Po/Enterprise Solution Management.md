@@ -18,6 +18,7 @@ Links: [[Information Systems]]
 
 #### Manage
 - [[Business Change]]
+- [[Maturity models]]
 - [[DevOps]]
 
 **[https://smu.sg/is214esm](https://smu.sg/is214esm)**

@@ -1,4 +1,9 @@
-# **Problem Management**
+# **Problem Management** (Legacy)
+UID: 202204241722
+Tags: #🌱 
+Links: [[ITIL Problem Management]]
+
+## 
  ```ad-quote
 title: defining problems in ITIL
 Problem: A cause, or potential cause, of one or more incidents.

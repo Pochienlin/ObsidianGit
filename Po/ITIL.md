@@ -14,6 +14,9 @@ The main framework for this course is ITIL (Information Technology Infrastructur
 - Axelos now oversees ITIL development.
 - ITIL v4 was released in 2019.
 
+[[ITIL Incident Management]]
+[[ITIL Problem Management]]
+
 ![Untitled](Enterprise%20d1a41/Untitled%208.png)
 
 ![Untitled](Enterprise%20d1a41/Untitled%209.png)

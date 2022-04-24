@@ -39,6 +39,7 @@ Bolded = support team ambit
 | Administrators | Project Administrators | - Set up the service project and users <br> - Manage users and roles in service projects <br>- Set up portals, request types, queues, reports and SLAs<br>- Perform all tasks that agents can <br>- access all features in Jira Service Management |
 | Agents | Service Desk Team | - Work on customer requests and add customers to the service project<br>- view the portal, queues, reports and SLA metrics within a service project<br>- view, add, edit and delete customer-facing and internal comments on issues<br>- add customers in a service project<br>- view, create and manage content in the knowledged base<br>- manage customers and organisations |
 ## Support’s role in quality
+[[ESM Quality and Monitoring]]
 - Measure the overall quality of the systems for the business purposes.
 - Monitor as much as possible as accurately as possible
 - React to all issues
@@ -50,3 +51,29 @@ Bolded = support team ambit
 ### Not responsible for:
 - Code and infrastructure quality
 - Developing monitoring tools
+
+## Support's role in incident management
+[[Events and incidents]]
+**Responsible for:**
+-   **Receive** and **communicate** all incidents
+-   **Filter** out change requests
+-   **Resolve** or **escalate** incidents as appropriate
+-   **Confirm** and **close** tickets
+-   **Analyse** incident logs
+-   **Report** on incident trends and suggest improvements
+
+**Not responsible for:**
+-   Changing code or hardware
+-   Defining service level agreements
+-   Doing everything the user asks for
+
+## Support's role in DevOps
+**Responsible for:**
+-   Working with dev teams on products
+-   Continuous monitoring of the quality of the production environment
+-   Feedback issue to dev
+
+**Not responsible for:**
+-   Requirements management
+-   Development
+-   Security

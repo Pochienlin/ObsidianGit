@@ -1,7 +1,7 @@
-# Enterprise Solution Management | Incidents and [[risk management]]
+# Enterprise Solution Management | Problems and [[risk management]]
 UID: 202203091426
 Tags: #🌲  #🔥 
-Links: [[Enterprise Solution Management]] [[ITIL Problem Management]] [[ITIL]]
+Links: [[Enterprise Solution Management]] [[ITIL Problem Management]] [[ITIL]] [[Events and incidents]]
 
 # Overview
 - Describe problem management
