@@ -5,12 +5,10 @@ Links:[[Inter-process Communication]]
 
 # Overview: What is Rabbit MQ?
 ![Untitled](Enterprise%200bac7/Untitled%204.png)
-```ad-abstract
-title: what is RabbitMQ?
-- **RabbitMQ** is a message-queueing software;
-    - It supports **AMQP** (and other protocols)
-- It can be called a **message broker** or **queue manager**
-```
+> [!abstract] what is RabbitMQ?
+> - **RabbitMQ** is a message-queueing software;
+>     - It supports **AMQP** (and other protocols)
+> - It can be called a **message broker** or **queue manager**
 RabbitMQ is an open-source message-broker software (sometimes called [[message-oriented middleware]]) that originally implemented the Advanced Message Queuing Protocol (AMQP) and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol (STOMP), MQ Telemetry Transport (MQTT), and other protocols.
 
 Written in Erlang, the RabbitMQ server is built on the Open Telecom Platform framework for clustering and failover. Client libraries to interface with the broker are available for all major programming languages. The source code is released under the Mozilla Public License.
@@ -27,12 +25,11 @@ Written in Erlang, the RabbitMQ server is built on the Open Telecom Platform fra
 
 ## Key binding
 ### Routing and binding keys
-```ad-abstract
-Binding keys are to tell which exchange a queue should bind to. 
-Routing key is an attribute of the message sent, it tells the message which queue it should be sent to.
-
-The sender and receiver do not know the routing keys in a Topic exchange, nor do they know one another's IP addresses. THese are assigned within the MOM layer
-```
+> [!abstract]
+> Binding keys are to tell which exchange a queue should bind to. 
+> Routing key is an attribute of the message sent, it tells the message which queue it should be sent to.
+> 
+> The sender and receiver do not know the routing keys in a Topic exchange, nor do they know one another's IP addresses. THese are assigned within the MOM layer
 Producer sets a **routing key** for a message sent to an exchange in a broker; 
 - the routing key is then matched by the exchange to the **binding keys / patterns** of the queues bound to the exchange.
 Sample scenarios when different types of exchanges may be moreconvenient for implementing the communication patterns:

@@ -4,10 +4,8 @@ Tags:
 Links: [[Support objectives]] [[ESM What is Support]]
 
 ## # Service Level Agreement:
-```ad-abstract
-title: what is an SLA?
-a documented commitment between a service provider and a customer.
-```
+> [!abstract] what is an SLA?
+> a documented commitment between a service provider and a customer.
 
 A SLA captures the following aspects:
 

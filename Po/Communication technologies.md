@@ -11,11 +11,9 @@ Links: [[Inter-process Communication]]
 - *Receiver:* listener, consumer, subscriber, callee, …
 - Wait to receive: wait for, listen for, subscribe for a piece of data, …
 - *Reply:* response, feedback, return, …
-```ad-warning
-title: Senders/receivers are NOT mutually exclusive 
-A sender can become a receiver when receiving a reply; a receiver can become a sender when forwarding data to another receiver.
-
-```
+> [!warning] Senders/receivers are NOT mutually exclusive
+> A sender can become a receiver when receiving a reply; a receiver can become a sender when forwarding data to another receiver.
+> 
 
 <aside>
 💡 Which synonyms to use may depend on business scenarios and the communication technologies used.

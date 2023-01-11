@@ -2,9 +2,8 @@
 UID: 202203091513
 Tags: #🌱 
 Links: [[Management Frameworks]] [[Enterprise Solution Management]] [[Six Sigma]] [[Quality control]] [[Kano Model]]
-```ad-abstract
-Six Sigma is a disciplined, statistical-based, data-driven approach and continuous improvement methodology for eliminating defects
-```
+> [!abstract]
+> Six Sigma is a disciplined, statistical-based, data-driven approach and continuous improvement methodology for eliminating defects
 
 | Sigma | % not defective | Defects per million |
 | --- | --- | --- |

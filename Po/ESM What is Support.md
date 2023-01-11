@@ -108,9 +108,8 @@ Stakeholders cover business and technical:
 ## **Responsibility Assignment Matrix - [[RACI]]**
 
 [Responsibility Assignment Matrix (RAM) - AcqNotes](https://acqnotes.com/acqnote/careerfields/responsibility-assignment-matrix)
-```ad-tip
-💡 Everyone in a team should have a clear responsibility
-```
+> [!tip]
+> 💡 Everyone in a team should have a clear responsibility
 [Activity 2.2 Lord of the Rings](Enterprise%2078767/Activity%202%2047486.md)
 
 # [[User Training]]

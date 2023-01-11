@@ -5,11 +5,9 @@ Links: [[ESM Quality and Monitoring]]
 
 -----
 # Why monitor?
-```ad-abstract
-title: Monitoring will help to respond to any issues early and can help to predict future issues
-
-Monitoring is the process of reviewing and analysing IT infrastructure and business processes for availability, operations, performance, security and other operations-related processes.
-```
+> [!abstract] Monitoring will help to respond to any issues early and can help to predict future issues
+> 
+> Monitoring is the process of reviewing and analysing IT infrastructure and business processes for availability, operations, performance, security and other operations-related processes.
 ## 4 steps in monitoring
 ### [[Measure (ITIL monitoring)]]
 - IT Infrastructure

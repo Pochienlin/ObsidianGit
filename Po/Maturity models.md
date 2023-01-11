@@ -20,13 +20,11 @@ Links: [[Enterprise Solution Management]]
 | The power or ability to do something | The resources available to do something:<br/>- Time is available <br/>- Effort can be applied<br/>- Team is available | A well-run organisation will be **capable** to perform its services and its processes will be reproducible (i.e. mature). |
 
 # Maturity Model
-```ad-abstract
-title: **A maturity model:**
-
--   Is a **tool** that helps people assess the current effectiveness of a person or group.
--   Is structured as a **series of levels** of effectiveness.
-
-```
+> [!abstract] **A maturity model:**
+> 
+> -   Is a **tool** that helps people assess the current effectiveness of a person or group.
+> -   Is structured as a **series of levels** of effectiveness.
+> 
 ## Working with a maturity model
 -   Begins with **assessment** - determine which level is currently performed. 
 -   Use the **next level** to prioritize what capabilities are required next. 

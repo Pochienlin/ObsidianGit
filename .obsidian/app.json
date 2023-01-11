@@ -6,5 +6,6 @@
   "newFileLocation": "current",
   "newFileFolderPath": "",
   "attachmentFolderPath": "Attachment",
-  "readableLineLength": false
+  "readableLineLength": true,
+  "promptDelete": false
 }

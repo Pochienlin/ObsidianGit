@@ -14,12 +14,11 @@ In ITIL 4, Service Management Practices ensure that services deliver agreed leve
 - *Event*  any change of state that has significance for the management of a service. Typically they are notifications from monitoring tools.
 - *Incident* an unplanned interruption to a service or reduction in the quality of a service.
 - *Problem* a cause, or potential cause, of one or more incidents
-```ad-tip
-💡 Week 5 focuses on **incidents**
-
-- **Problems** will be covered this week
-- For **events**, recall week 4 monitoring
-```
+> [!tip]
+> 💡 Week 5 focuses on **incidents**
+> 
+> - **Problems** will be covered this week
+> - For **events**, recall week 4 monitoring
 
 ![Untitled](Enterprise%205bd06/Untitled%204.png)
 
@@ -32,13 +31,12 @@ In ITIL 4, Service Management Practices ensure that services deliver agreed leve
 - **PM processes are both reactive and proactive:**
     - **Reactive** in solving problems in response to incidents,
     - **Proactive** in identifying and solving potential incidents before they occur.
-```ad-note
-💡 **Often seen as:**
-
-- The **same incident** occurring many times
-- An incident that **affects many users**
-- Systems are **not operating** in the expected way
-```
+> [!note]
+> 💡 **Often seen as:**
+> 
+> - The **same incident** occurring many times
+> - An incident that **affects many users**
+> - Systems are **not operating** in the expected way
 ---
 ## Problem management phases
 - Every service has errors, flaws or vulnerabilities that may cause incidents.

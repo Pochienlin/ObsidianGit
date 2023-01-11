@@ -16,9 +16,8 @@ Links: [[Communication technologies]]
 We rarely have a use case for one-to-many + request reply. However this is theoretically possible: e.g. parallel flow in a process flow diagram, where token has to be collected from multiple receivers before a service can be continued.
 
 We also rarely have cases where fire-and-forget and synchronous: if it is one way, there is hardly a reason for the receiver to be synchronised with the sender, since from the sender's perspective there would be no difference, sync or async. It would make sense then to deploy async instead in most if not all such cases.
-```ad-question
- How many receivers does the sender expect for the same data sent?
-```
+> [!question]
+>  How many receivers does the sender expect for the same data sent?
 ### One receiver: one-to-one
 ![Untitled](Enterprise%209aa48/Untitled%203.png)
         
@@ -37,9 +36,8 @@ We also rarely have cases where fire-and-forget and synchronous: if it is one wa
 	- E.g.,
             Mail a letter to a person
             Email to one address
-```ad-question
-Does the sender expect a reply for the data sent?
-```
+> [!question]
+> Does the sender expect a reply for the data sent?
 ##### No: fire-and-forget (fire & forget, one-way)
 ![Untitled](Enterprise%209aa48/Untitled%206.png)
 	- E.g.,
@@ -52,9 +50,8 @@ Does the sender expect a reply for the data sent?
 	- - Phone call
 	- Flipped classroom learning & teaching
 	- Place an order for a book
-```ad-question
-Do the sender and the receiver need to be online at the same time to realize the communication?
-```
+> [!question]
+> Do the sender and the receiver need to be online at the same time to realize the communication?
 ##### Yes: synchronous (synchronized, sync.)
 ![Untitled](Enterprise%209aa48/Untitled%208.png)
 - Usually have reply data too

@@ -1,7 +1,6 @@
 
-```ad-info
-This is a stub to supplement [[Events and incidents]]
-```
+> [!info]
+> This is a stub to supplement [[Events and incidents]]
 **Thank you for your time to give us your feedback. It will greatly help us to continuously improve the service we provide to you.**
 
 1.  Was your issues solved to your satisfaction? Y/N

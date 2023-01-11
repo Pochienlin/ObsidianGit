@@ -7,15 +7,13 @@ Links: [[Enterprise Solution Management]] [[ESM What is Support]]
 The RACI matrix is a responsiblity assignment chart that maps out every task, milestone or key decision involved in completing a project and assigns which roles are _Responsible_ for each action item, which personnel are _Accountable_, and, where appropriate, who needs to be _Consulted_ or Informed. The acronym RACI stands for the four roles that stakeholders might play in any project.
 
 ## Responsible
-```ad-abstract
-People or stakeholders who do the work. 
-```
+> [!abstract]
+> People or stakeholders who do the work. 
 They must complete the task or objective or make the decision. Several people can be jointly _Responsible_.
 - Contractor
 ## Accountable
-```ad-abstract
-Person or stakeholder who is the “owner” of the work.
-```
+> [!abstract]
+> Person or stakeholder who is the “owner” of the work.
 He or she must sign off or approve when the task, objective or decision is complete. This person must make sure that responsibilities are assigned in the matrix for all related activities. Success requires that there is only one person _Accountable_, which means that “the buck stops there.”
 - Product/ Process owner
 - ESM team

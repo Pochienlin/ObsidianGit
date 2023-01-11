@@ -10,10 +10,8 @@ Links: [[Enterprise Solution Development]] [[Enterprise Applications and Busines
 💡 The UIs may be decomposed into "micro-UIs" too.
 
 </aside>
-```ad-info
-title: Defining MSA
-A microservice may be defined as a single unit that implements only one or a few (instead of many) functionality needed to support business requirements and can be invoked by other applications (or microservices) over the network in a standard interface that is independent of programming languages and platforms
-```
+> [!info] Defining MSA
+> A microservice may be defined as a single unit that implements only one or a few (instead of many) functionality needed to support business requirements and can be invoked by other applications (or microservices) over the network in a standard interface that is independent of programming languages and platforms
 - Microservices are "loosely coupled" with each other
     - It can be implemented in a programming language of its own;
         - E.g., one microservice is implemented in Java; the other in Python;

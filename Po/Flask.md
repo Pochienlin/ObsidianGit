@@ -4,11 +4,9 @@ Tags: #🌲
 Links: [[Enterprise Solution]] [[Enterprise Solution Development]] [[web applications]] [[Web app development]]
 
 ## Overview
-```ad-abstract
-title: What is Flask?
-
-Flask is a minimal python app wrapper module. By using Flask, we can turn our Python scripts into simple micro-apps that can be called while running
-```
+> [!abstract] What is Flask?
+> 
+> Flask is a minimal python app wrapper module. By using Flask, we can turn our Python scripts into simple micro-apps that can be called while running
 
 ## A Minimal Application
 
@@ -63,11 +61,9 @@ if __name__ == '__main__':
 
 #### Wrapping with the POST/ PUT method
 Example of a POST method path.
-```ad-tip
-title: Notice the difference
-With the POST method, you can still pass a variable via the path. This simplifies variable passing.
-Alternatively, you can use the `request` module to find the POST variable via `request.args()` or `request.json()` depending on the data type
-```
+> [!tip] Notice the difference
+> With the POST method, you can still pass a variable via the path. This simplifies variable passing.
+> Alternatively, you can use the `request` module to find the POST variable via `request.args()` or `request.json()` depending on the data type
 
 ###### Example 1: passing variable via url
 ```python 

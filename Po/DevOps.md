@@ -6,23 +6,20 @@ Links: [[Enterprise Solution Management]]
 ----
 ![[Pasted image 20220424191105.png]]
 # DevOps and Maturity
-```ad-info
-**DevOps is a mature process because:**
-
--   Maturity is measured by the reproducibility of processes. 
--   As automation increases, reproducibility also increase and hence maturity also increases. 
--   Processes get embedded in code rather than documents.
-
-  
-Therefore, DevOps is a mature methodology.
-```
+> [!info]
+> **DevOps is a mature process because:**
+> 
+> -   Maturity is measured by the reproducibility of processes. 
+> -   As automation increases, reproducibility also increase and hence maturity also increases. 
+> -   Processes get embedded in code rather than documents.
+> 
+>   
+> Therefore, DevOps is a mature methodology.
 # What is devops?
 The word 'DevOps' is a combination of two words 'development' and 'operations‘.
 - DevOps is a *culture* which promotes collaboration between Development and Operations teams to deploy systems to production in less turnaround time in an automated way.
-```ad-abstract
-title: In simple words...
-DevOps is as an alignment of development and IT operations with better communication and collaboration.
-```
+> [!abstract] In simple words...
+> DevOps is as an alignment of development and IT operations with better communication and collaboration.
 | Six essential principles for DevOps adoption                                                                                                        |
 | --------------------------------- |
 | Customer-Centric Action: DevOps teams focus on customer-centric actions constantly investing in products and services. |

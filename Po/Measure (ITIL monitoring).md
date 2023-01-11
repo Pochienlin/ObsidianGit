@@ -3,11 +3,9 @@ UID: 202204232054
 Tags: #🌲 
 Links: [[Monitoring with ITIL v 4.0 — 5.2.7]]
 
-```ad-abstract
-title: Why measure?
-The enterprise landscape contains many systems and subsystems all working together to deliver business value. 
-Monitoring needs to be applied to both the business processes and the IT infrastructure.
-```
+> [!abstract] Why measure?
+> The enterprise landscape contains many systems and subsystems all working together to deliver business value. 
+> Monitoring needs to be applied to both the business processes and the IT infrastructure.
 ### IT infrastructure
 
 ![Untitled](Enterprise%20f610f/Untitled%206.png)

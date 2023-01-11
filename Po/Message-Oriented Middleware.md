@@ -2,11 +2,9 @@
 UID: 202204171735
 Tags: #🌱 
 Links: [[Inter-process Communication]]
-```ad-note
-title: Summary
-
-MOM is a software which sits between two or more applications or (micro)services and allow them to exchange data in the form of **messages**
-```
+> [!note] Summary
+> 
+> MOM is a software which sits between two or more applications or (micro)services and allow them to exchange data in the form of **messages**
 # Overview
 Message-oriented middleware (MOM) is software or hardware infrastructure supporting sending and receiving messages between distributed systems. MOM allows application modules to be **distributed over heterogeneous platforms** and **reduces the complexity of developing applications** that span multiple operating systems and network protocols. 
 

@@ -1,8 +1,10 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Willemstad",
-  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Avenir"
+  "interfaceFontFamily": "American Typewriter,Avenir",
+  "textFontFamily": "Avenir Next Condensed",
+  "accentColor": ""
 }

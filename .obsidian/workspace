@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Po/Enterprise Solution Management.md",
-            "mode": "source",
+            "file": "Po/Digital Business.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "right": {
     "id": "f82e463bb75a9e08",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Po/Enterprise Solution Management.md",
+                "file": "Po/Digital Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Po/Enterprise Solution Management.md",
+                "file": "Po/Digital Business.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,15 +129,15 @@
   },
   "active": "e2626a1c8088def3",
   "lastOpenFiles": [
-    "Po/Enterprise Solution Management.md",
-    "README.md",
-    "Po/DevOps.md",
-    "Po/Events and incidents.md",
-    "Po/Enterprise Solution Development.md",
-    "Po/Implementation – Change process.md",
-    "Po/Business Change.md",
-    "Po/Readiness for change.md",
-    "Po/Problem Management.md",
-    "Po/ITIL Problem Management.md"
+    "Po/Programming for CT.md",
+    "Po/Modulo vs Remainder.md",
+    "Po/Computational Thinking.md",
+    "Po/Counting problem (CT).md",
+    "Po/Combination.md",
+    "Po/Permutation.md",
+    "Po/Sum Rule.md",
+    "Po/Product Rule.md",
+    "Sum of series in AP/Sum Series in AP and GP.md",
+    "Po/Rules of Logarithms.md"
   ]
 }

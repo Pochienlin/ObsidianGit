@@ -4,9 +4,8 @@ Tags: #🌲
 Links: [[Enterprise Solution Development]]
 
 ## Overview
-```ad-abstract
-REST stands for **Re**presentational **S**tate **T**ransfer protocol. It is a style of [[stateless API]] implementation.
-```
+> [!abstract]
+> REST stands for **Re**presentational **S**tate **T**ransfer protocol. It is a style of [[stateless API]] implementation.
 ## Introduction
 A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services. REST stands for representational state transfer and was created by computer scientist Roy Fielding.
 

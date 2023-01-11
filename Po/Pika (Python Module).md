@@ -4,9 +4,8 @@ Tags: #🌱
 Links: [[Inter-process Communication]]
 
 ## Overview
-```ad-abstract
-Pika is a pure-Python implementation of the AMQP 0-9-1 protocol that tries to stay fairly independent of the underlying network support library.
-```
+> [!abstract]
+> Pika is a pure-Python implementation of the AMQP 0-9-1 protocol that tries to stay fairly independent of the underlying network support library.
 
 ## IO and Event Looping
 

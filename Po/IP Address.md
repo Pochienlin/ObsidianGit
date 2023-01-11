@@ -12,16 +12,12 @@ Links: [[Enterprise Solution Development]] [[Enterprise Solution Development]] [
 - Act as a host-name registry on the network
 - Map host names to IP addresses
 - CMD window on Windows
-```ad-note
-title: command
-    
-    ipconfig
-```
+> [!note] command
+>     
+>     ipconfig
 	- To check addresses
-```ad-note
-title: command
-    hostname
-```
+> [!note] command
+>     hostname
 	- To check hostname
 ## See also
 - [[Network hosting]] Static vs Dynamic address

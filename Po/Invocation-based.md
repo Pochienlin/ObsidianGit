@@ -3,11 +3,9 @@ UID: 202204171717
 Tags: #🌱 
 Links: [[Communication technologies]] [[Communication Protocols]]
 
-```ad-note
-title: Summary
-Invocation-based communication includes, but are not limited to, *Language-level function calls* and *HTTP request-response*
-
-```
+> [!note] Summary
+> Invocation-based communication includes, but are not limited to, *Language-level function calls* and *HTTP request-response*
+> 
 Language-level function calls are the tightest coupling among services.
 HTTP methods includes:
 1. PUT | updating or modifying existing data

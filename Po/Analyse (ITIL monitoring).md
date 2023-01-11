@@ -4,10 +4,8 @@ Tags: #🌲
 Links: [[Monitoring with ITIL v 4.0 — 5.2.7]]
 
 ## # Analyse
-```ad-abstract
-title: what to analyse?
-Analyse the data available, including peaks and trends
-```
+> [!abstract] what to analyse?
+> Analyse the data available, including peaks and trends
 
 ## Peaks
 - Examples
@@ -34,10 +32,8 @@ Analyse the data available, including peaks and trends
     - Decide if any further action is required
 
 ## Trends
-```ad-tip
-title: Trends are...
-Trends are usually defined as a number of consecutive  data points away from the average in the same direction, often 3 data points are used as the definition of a trend.
-```
+> [!tip] Trends are...
+> Trends are usually defined as a number of consecutive  data points away from the average in the same direction, often 3 data points are used as the definition of a trend.
 
 - Trends are key to ensuring robust, long-lived systems. Trend analysis can be used for:
     - Alerts for warnings

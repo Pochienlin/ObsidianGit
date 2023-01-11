@@ -11,13 +11,11 @@ As defined by Cambridge Dictionary, communication is:
 	- Between enterprises, enterprise applications, software, (micro)services, etc.
 
  [[Enterprise Applications]] often need to use each other's functions or services, and exchange data, in order to realize business processes, within and between enterprises
-```ad-note
-title: A note on "processes" in the software context
-Notes about the term "process":
-- "processes" here refer to software processes running on a platform, not business processes. E.g., you can see the processes on Windows by using "Task Manager". 
-- However, software processes can be used to implement business processes. (Software) processes usually refer to the dynamic, runtime instances of a software application; the same software application can have multiple processes (instances) running at the same time.
-
-```
+> [!note] A note on "processes" in the software context
+> Notes about the term "process":
+> - "processes" here refer to software processes running on a platform, not business processes. E.g., you can see the processes on Windows by using "Task Manager". 
+> - However, software processes can be used to implement business processes. (Software) processes usually refer to the dynamic, runtime instances of a software application; the same software application can have multiple processes (instances) running at the same time.
+> 
 
 ![Untitled](Enterprise%209aa48/Untitled.png)
 

@@ -27,9 +27,8 @@ Links: [[Enterprise Solution Management]]
 Firstly, incidents need to be identified. They come from two main sources:
 -   **Users** - walk-ups, self-service, phone calls, emails, support chats,
 -   **Alerts** - application monitoring software or system scanning utilities.
-```ad-tip
-**Decide if the issue is really an** **incident** **or if it’s a** **request**. Requests are not incidents and should go through the change management process.**
-```
+> [!tip]
+> **Decide if the issue is really an** **incident** **or if it’s a** **request**. Requests are not incidents and should go through the change management process.**
 ![[Pasted image 20220424172610.png]]
 #### 2.  Log
 Once an event is identified as an incident it is logged in a ticketing system as per enterprise standard procedures
@@ -55,32 +54,29 @@ This serves several purposes:
 For example, an incident might be:
 -   Category = “Application” 
 -   Sub-category of “Slow”.
-```ad-note
-title: **Categories examples:**
-
-**Network**
--   Outage
--   Slow
-
-**Application**
--   Fault
--   Slow
--   Access control
-
-**Data**
--   Missing
--   Incorrect
-```
+> [!note] **Categories examples:**
+> 
+> **Network**
+> -   Outage
+> -   Slow
+> 
+> **Application**
+> -   Fault
+> -   Slow
+> -   Access control
+> 
+> **Data**
+> -   Missing
+> -   Incorrect
 
 #### 4. Prioritise
 **An incident priority is determined by:**
 -   **Impact** on users and the business - the measure of the extent of potential damage the incident may cause.
 -   **Urgency** is how quickly a resolution is required to reduce the business impact
 see also: [[Risk management]]
-```ad-warning
--   Prioritization is especially important for triaging incidents during major outages.
--   Prioritization may change during the lifetime of the incident.
-```
+> [!warning]
+> -   Prioritization is especially important for triaging incidents during major outages.
+> -   Prioritization may change during the lifetime of the incident.
 | Low Priority                                                      | Medium Priority                                        | High Priority                                                                      |
 | ----------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | Does not interrupt users or the business and can be worked around | Affects a few staff and interrupts work to some degree | Affects many users or customers, interrupts business, and affects service delivery |
@@ -127,16 +123,15 @@ This includes:
 -   Reporting the incident impact and resolution
 -   Confirming the resolution with the users
 ## Satisfaction surveys
-```ad-abstract
-Satisfaction surveys are a good method of monitoring user perception and expectations. To ensure success you should address several key points:
--   Decide on the **scope** of the survey and the target audience
--   Clearly **define** the questions and make the survey easy to complete
--   **Conduct** the survey regularly
--   Make sure that your users **understand** the benefits
--   **Publish** the results
--   **Translate** survey results into actions
--   **Follow through** on survey results
-```
+> [!abstract]
+> Satisfaction surveys are a good method of monitoring user perception and expectations. To ensure success you should address several key points:
+> -   Decide on the **scope** of the survey and the target audience
+> -   Clearly **define** the questions and make the survey easy to complete
+> -   **Conduct** the survey regularly
+> -   Make sure that your users **understand** the benefits
+> -   **Publish** the results
+> -   **Translate** survey results into actions
+> -   **Follow through** on survey results
 
 [[Example of a user satisfaction survey]]
 

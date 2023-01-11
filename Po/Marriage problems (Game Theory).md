@@ -1,7 +1,7 @@
 # Marriage problems (Game Theory)
 UID: 202204131414
 Tags: #🌱 
-Links: [[Strategic Thinking]]
+Links: [[Strategic Thinking]] [[Introduction to CT]]
 
 ---
 ## 0. Overview

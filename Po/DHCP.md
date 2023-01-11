@@ -17,9 +17,8 @@ ipconfig/ all
 
 To check DHCP server, DNS server, Gateway etc.
 
-```ad-warning
-Dynamic address is set by the router, not the host 
-```
+> [!warning]
+> Dynamic address is set by the router, not the host 
 
 ## Allocation
 Dynamic addresses changes regularly to free up unused addresses, whereas static need not be changed

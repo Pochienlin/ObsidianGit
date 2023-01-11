@@ -4,10 +4,8 @@ Tags: #🌱
 Links: [[ESM What is Support]]
 
 Cloud providers reduce on-site effort by enabling X-as-a-Service, X ranges from infrastructure to software.
-```ad-tip
-title: How do I read this table?
-filled in means it is managed by the user
-```
+> [!tip] How do I read this table?
+> filled in means it is managed by the user
 | On Premises | Infrastructure as a Service | Platform as a service | Software as a service |
 | --- | --- | --- | --- |
 | Applications | Applications | Applications |  |

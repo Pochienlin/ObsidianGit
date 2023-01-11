@@ -6,21 +6,18 @@ Links: [[Events and incidents]]
 
 ![[Pasted image 20220424171429.png]]
 # Overview
-```ad-abstract
-title: Incident management: 
-to minimize the negative impact of incidents by restoring normal service operations as quickly as possible:
-```
+> [!abstract] Incident management:
+> to minimize the negative impact of incidents by restoring normal service operations as quickly as possible:
 -   **Diagnose** and escalate to restore the service. 
 -   Is a **reactive** process, not a proactive measure.
 -   Is not expected to perform root cause analysis
-```ad-tip
-**Incidents are often seen as:**
-
--   a fault
--   an error
--   “it doesn’t work!”
--   a problem
-```
+> [!tip]
+> **Incidents are often seen as:**
+> 
+> -   a fault
+> -   an error
+> -   “it doesn’t work!”
+> -   a problem
 -   Incident management can have an enormous impact on customer and **user satisfaction**.
 -   Target **resolution times** are agreed upon, documented, and communicated to users.
 -   Every incident should be **logged and managed**
