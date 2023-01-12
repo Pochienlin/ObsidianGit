@@ -1,7 +1,7 @@
 # Flask
 UID: 202204181156
 Tags: #🌲 
-Links: [[Enterprise Solution]] [[Enterprise Solution Development]] [[web applications]] [[Web app development]]
+Links: [[Enterprise Solution]] [[Enterprise Solution Development]] [[Web applications]] [[Web app development]]
 
 ## Overview
 > [!abstract] What is Flask?

@@ -1,7 +1,7 @@
 # Enterprise Solution
 UID: 202204171612
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[web applications]] [[Web app development]] [[Networking Basics]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Web applications]] [[Web app development]] [[Networking Basics]]
 ## # Enterprise Solution
 
 Typically, an enterprise solution refers to one or more enterprise applications that  produce, process and exchange data in  order to fulfil business requirements

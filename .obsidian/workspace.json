@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "604dbe20e9ca82e5",
+        "id": "14fcdd563a4e10d4",
         "type": "tabs",
         "children": [
           {
-            "id": "4902ec64eeeccf52",
+            "id": "e7895649985c54ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2c206e30cf616933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Po/Deep Learning Fundamentals with Keras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae06ef077bcb8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Po/Biological Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Po/Biological Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Po/Biological Neural Networks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,17 +142,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4ae06ef077bcb8e6",
+  "active": "e7895649985c54ae",
   "lastOpenFiles": [
+    "Po/Deep Learning Fundamentals with Keras.md",
+    "Po/Biological Neural Networks.md",
     "Po/Big Data.md",
     "Po/Artificial Intelligence (AI).md",
     "Po/Regression Models with Keras.md",
     "Po/Regression Models with Keras Lab.md",
-    "Po/Deep Learning Fundamentals with Keras.md",
     "Po/Introduction to Deep Learning Libraries.md",
     "Po/Activation Functions.md",
     "Po/Web app development.md",
-    "Po/Bootstrap Documentation.md",
-    "Po/Bootstrap CSS.md"
+    "Po/Bootstrap Documentation.md"
   ]
 }

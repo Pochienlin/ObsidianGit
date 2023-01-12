@@ -1,7 +1,7 @@
 # Uses of Enterprise Applications
 UID: 202204171612
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[web applications]] [[Web app development]] [[Networking Basics]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Web applications]] [[Web app development]] [[Networking Basics]]
 # Interactions among Enterprise Applications
 - An activity performed by a person in an enterprise can affect other parts of the enterprise or other enterprises according to the business processes
     - Examples: CFO views the financial statement that aggregates data from Account Payable Manager, Account Receivable Manager; delivery notices may trigger reactions from the courier's systems; etc.

@@ -1,7 +1,7 @@
 # Ping
 UID: 202204171550
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[web applications]] [[Web app development]] [[Networking Basics]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Web applications]] [[Web app development]] [[Networking Basics]]
 
 Ping is a tool used to test whether a particular host/machine is reachable across a network
 

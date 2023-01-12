@@ -30,4 +30,4 @@ Prof. Youngwan Kim
 	1. [[Suriname]]
 	2. [[Burundi and Rwanda]]
 	3. [[Nigerias resource curse]]
-16. [[Tourism and development]]
+16. [[Tourism and development (Politics)]]

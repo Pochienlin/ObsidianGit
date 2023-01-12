@@ -13,3 +13,6 @@ Case study: [[Bosnia and Herzegovina]]
 ## Gender
 Case study: [[Honor Killings]]
 [[Female Genital Mutilation]]
+
+
+See also: [[John Stuart Mill (feminism)]], [[Mary Wollstonecraft]], [[Olympe de Gouges]]

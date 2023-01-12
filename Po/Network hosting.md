@@ -1,7 +1,7 @@
 # Network hosting
 UID: 202204171547
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Networking Basics]] [[web applications]] [[Web app development]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Networking Basics]] [[Web applications]] [[Web app development]]
 
 ## [[DHCP | Dynamic Host Configuration Protocol]]
 

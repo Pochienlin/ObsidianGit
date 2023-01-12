@@ -1,7 +1,7 @@
 # DHCP
 UID: 202204171548
 Tags: #🌱 
-Links: [[web applications]] [[Web app development]] [[Basic Networking HTTP]]
+Links: [[Web applications]] [[Web app development]] [[Basic Networking HTTP]]
 
 The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used on Internet Protocol (IP) networks for automatically assigning IP addresses and other communication parameters to devices connected to the network using a client–server architecture.
 

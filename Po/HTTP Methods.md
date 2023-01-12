@@ -1,7 +1,7 @@
 # HTTP Methods
 UID: 202204171551
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[web applications]] [[Web app development]] [[Networking Basics]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Web applications]] [[Web app development]] [[Networking Basics]]
 
 ![Untitled](Enterprise%209b3bb/Untitled%2014.png)
 

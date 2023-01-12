@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Po/Digital Business.md",
+            "file": "Basics of CyberSec.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "big data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Po/Digital Business.md",
+                "file": "Basics of CyberSec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Po/Digital Business.md",
+                "file": "Basics of CyberSec.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -119,25 +119,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "active": "e2626a1c8088def3",
   "lastOpenFiles": [
-    "Po/Programming for CT.md",
-    "Po/Modulo vs Remainder.md",
-    "Po/Computational Thinking.md",
-    "Po/Counting problem (CT).md",
-    "Po/Combination.md",
-    "Po/Permutation.md",
-    "Po/Sum Rule.md",
-    "Po/Product Rule.md",
-    "Sum of series in AP/Sum Series in AP and GP.md",
-    "Po/Rules of Logarithms.md"
+    "Foundations of Cybersecurity.md",
+    "Password Strength checker.md",
+    "Basics of CyberSec.md",
+    "2017 Ukraine ransomware attacks.md",
+    "Templates/EmbedVid.md",
+    "Templates/TOC.md",
+    "Po/Basic Networking HTTP.md",
+    "Po/Networking Basics.md",
+    "Ukraine Attacks in 2017.md",
+    "README.md"
   ]
 }

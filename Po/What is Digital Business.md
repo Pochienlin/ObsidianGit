@@ -61,6 +61,7 @@ It is a temporary phenomenon, but it should also be recognised that this is mean
 Digital business is the end goal, and digital transformation is the path that companies undertake to get there
 ```
 "HSBC Mobile banking"
+
 | Before                               | After |
 | ------------------------------------ | ----- |
 | ![[Pasted image 20230111132810.png]] | ![[Pasted image 20230111132821.png]]      |
@@ -70,6 +71,7 @@ Digital business is the end goal, and digital transformation is the path that co
 
 ## Stages
 $$Digitization \rightarrow Digitalization \rightarrow Digital\;Transformation$$
+
 | Stage                     | Description                                                                                                                                                                                                                           | Step    |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Digitize information      | Digitization: Changing from analog or physical to digital                                                                                                                                                                             | Digitization    |
@@ -81,6 +83,7 @@ $$Digitization \rightarrow Digitalization \rightarrow Digital\;Transformation$$
 ## Differentiating Digitization, Digitalization and Digital Transformation
 1. Digitzalization progresses from Digitization to move beyond changing the form to changing and add to processes
 2. Digital transformation progresses from digitalization by transforming operating models, strategy and value propositions
+
 | Item                                                                             | Answer         |
 | -------------------------------------------------------------------------------- | -------------- |
 | Scanning a photograph to create a digital file                                   | Digitization   |

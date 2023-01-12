@@ -1,7 +1,7 @@
 # Digital Business
 UID: 202301111141
-Tags:
-Links:
+Tags: #🌲 
+Links: [[Information Systems]] [[Business Process Analysis and Solutioning]]
 
 ----
 

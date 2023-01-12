@@ -1,7 +1,7 @@
 # load balancer
 UID: 202204171552
 Tags: #🌱 
-Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[web applications]] [[Web app development]] [[Networking Basics]] [[Basic Networking HTTP]]
+Links: [[Enterprise Solution Development]] [[Enterprise Applications and Business Processes]] [[Web applications]] [[Web app development]] [[Networking Basics]] [[Basic Networking HTTP]]
 
 ## What does a load balancer do?
 Route network traffics to different receivers and dispatch processing workloads among them

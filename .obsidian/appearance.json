@@ -1,8 +1,8 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "cssTheme": "Red Graphite",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "interfaceFontFamily": "American Typewriter,Avenir",
   "textFontFamily": "Avenir Next Condensed",

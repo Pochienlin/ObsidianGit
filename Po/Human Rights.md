@@ -20,6 +20,10 @@ Economic social and cultural rights 
 	- This necessitates freedom of expression and beliefs. But believing in this does not equate to believing all humans ought to have the same set of rights.
 
 American and French revolution as a precursor to human rights
+- [[Immanuel Kant]]
+- [[John Locke]]
+- [[John Stuart Mill]]
+
 Asian philosophy focuses on community —> less focus on the rights of individuals
 
 
@@ -48,6 +52,7 @@ eg. asian tigers (exception) $\implies$ successful economic development under au
 - They can also be at odds against each other: maximizing economic dev may at times strip others of freedom of expression (Tiananmen)  
 
 ## Cultural imperialism
+See: debate between [[Frantz Fanon]] and [[Mohandas Gandhi]] schools of thought
 - HR as a western concept and claims to universalism
 - culture can sometimes be at odds with human rights: e.g. Islam and women's rights, nationalism and human rights
 

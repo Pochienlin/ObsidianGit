@@ -47,4 +47,4 @@ Reusability
 | Exclusive control over own databases | Interacts with IT system for database|
 | Size - fewer functionality* | more robust functionalities|
 
-*obeys the [[two pizza rule]]* *
+*obeys the [[Two pizza rule]]* *

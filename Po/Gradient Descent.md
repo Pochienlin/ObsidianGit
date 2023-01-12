@@ -10,8 +10,10 @@ Links: [[Deep Learning Fundamentals with Keras]]
 > - The algorithm involves taking steps towards the minimum, using the gradient of the function at the current point to determine the direction of the step and a learning rate to control the magnitude of the step. 
 > - The algorithm iteratively repeats this process until the minimum is reached or a value very close to the minimum is achieved. 
 > 
-> The learning rate must be carefully chosen to avoid overshooting the minimum or taking too long to reach it. 
-> - In the context of neural networks, the cost or loss function is used to determine the optimal values for the weights and biases in the network to minimize the error between the predicted and target values.
+
+The learning rate must be carefully chosen to avoid overshooting the minimum or taking too long to reach it. 
+- In the context of neural networks, the cost or loss function is used to determine the optimal values for the weights and biases in the network to minimize the error between the predicted and target values.
+
 ![[Pasted image 20221221153637.png]]
 ![[Pasted image 20221221153659.png]]
 - This Cost Function has a global minimum – simple but allows for some maximization
